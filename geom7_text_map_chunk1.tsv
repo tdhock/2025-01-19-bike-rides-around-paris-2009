@@ -1,0 +1,223 @@
+colour	y	x	key	label	showSelected1	showSelected2	showSelected3	group
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-09:18:11:56	start	nearby cities	112
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-09:18:11:56	end	nearby cities	1
+#FF0000	48.3	1	start	start: creteil (94028), val-de-marne (94), Île-de-France	2009-04-11:09:52:48	start	nearby cities	113
+#FF0000	48.2	1	end	end: perigny sur yerres (94056), val-de-marne (94), Île-de-France	2009-04-11:09:52:48	end	nearby cities	2
+#FF0000	48.3	1	start	start: perigny sur yerres (94056), val-de-marne (94), Île-de-France	2009-04-11:15:51:05	start	nearby cities	114
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-11:15:51:05	end	nearby cities	3
+#FF0000	48.3	1	start	start: paris (75104), paris (75), Île-de-France	2009-04-13:11:59:58	start	nearby cities	115
+#FF0000	48.2	1	end	end: paris (75110), paris (75), Île-de-France	2009-04-13:11:59:58	end	nearby cities	4
+#FF0000	48.3	1	start	start: paris (75105), paris (75), Île-de-France	2009-04-13:16:39:34	start	nearby cities	116
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-13:16:39:34	end	nearby cities	5
+#FF0000	48.3	1	start	start: paris (75114), paris (75), Île-de-France	2009-04-21:06:54:34	start	nearby cities	117
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-21:06:54:34	end	nearby cities	6
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-04-21:17:04:43	start	nearby cities	118
+#FF0000	48.2	1	end	end: paris (75113), paris (75), Île-de-France	2009-04-21:17:04:43	end	nearby cities	7
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-04-22:07:22:38	start	nearby cities	119
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-22:07:22:38	end	nearby cities	8
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-22:17:10:06	start	nearby cities	120
+#FF0000	48.2	1	end	end: paris (75113), paris (75), Île-de-France	2009-04-22:17:10:06	end	nearby cities	9
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-04-23:07:07:29	start	nearby cities	121
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-23:07:07:29	end	nearby cities	10
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-04-27:16:57:48	start	nearby cities	122
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-27:16:57:48	end	nearby cities	11
+#FF0000	48.3	1	start	start: malakoff (92046), hauts-de-seine (92), Île-de-France	2009-04-28:07:06:02	start	nearby cities	123
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-28:07:06:02	end	nearby cities	12
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-28:16:52:05	start	nearby cities	124
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-28:16:52:05	end	nearby cities	13
+#FF0000	48.3	1	start	start: paris (75105), paris (75), Île-de-France	2009-04-29:09:00:28	start	nearby cities	125
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-29:09:00:28	end	nearby cities	14
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-04-29:16:24:31	start	nearby cities	126
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-29:16:24:31	end	nearby cities	15
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-04-29:17:49:15	start	nearby cities	127
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-29:17:49:15	end	nearby cities	16
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-30:06:50:20	start	nearby cities	128
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-30:06:50:20	end	nearby cities	17
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-04-30:16:54:25	start	nearby cities	129
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-04-30:16:54:25	end	nearby cities	18
+#FF0000	48.3	1	start	start: boulogne billancourt (92012), hauts-de-seine (92), Île-de-France	2009-05-01:05:28:32	start	nearby cities	130
+#FF0000	48.2	1	end	end: septeuil (78591), yvelines (78), Île-de-France	2009-05-01:05:28:32	end	nearby cities	19
+#FF0000	48.3	1	start	start: septeuil (78591), yvelines (78), Île-de-France	2009-05-01:09:27:43	start	nearby cities	131
+#FF0000	48.2	1	end	end: chaignes (27136), eure (27), Normandie	2009-05-01:09:27:43	end	nearby cities	20
+#FF0000	48.3	1	start	start: chaignes (27136), eure (27), Normandie	2009-05-01:12:41:53	start	nearby cities	132
+#FF0000	48.2	1	end	end: villennes sur seine (78672), yvelines (78), Île-de-France	2009-05-01:12:41:53	end	nearby cities	21
+#FF0000	48.3	1	start	start: villennes sur seine (78672), yvelines (78), Île-de-France	2009-05-01:15:52:16	start	nearby cities	133
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-01:15:52:16	end	nearby cities	22
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-05-04:07:18:11	start	nearby cities	134
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-04:07:18:11	end	nearby cities	23
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-04:16:13:39	start	nearby cities	135
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-04:16:13:39	end	nearby cities	24
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-05-05:08:02:31	start	nearby cities	136
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-05:08:02:31	end	nearby cities	25
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-05:16:32:25	start	nearby cities	137
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-05:16:32:25	end	nearby cities	26
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-05-06:07:59:05	start	nearby cities	138
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-06:07:59:05	end	nearby cities	27
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-06:16:22:50	start	nearby cities	139
+#FF0000	48.2	1	end	end: bagnolet (93006), seine-saint-denis (93), Île-de-France	2009-05-06:16:22:50	end	nearby cities	28
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-05-07:06:49:31	start	nearby cities	140
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-07:06:49:31	end	nearby cities	29
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-07:18:30:24	start	nearby cities	141
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-07:18:30:24	end	nearby cities	30
+#FF0000	48.3	1	start	start: malakoff (92046), hauts-de-seine (92), Île-de-France	2009-05-11:10:43:59	start	nearby cities	142
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-11:10:43:59	end	nearby cities	31
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-05-11:17:11:27	start	nearby cities	143
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-11:17:11:27	end	nearby cities	32
+#FF0000	48.3	1	start	start: malakoff (92046), hauts-de-seine (92), Île-de-France	2009-05-12:07:08:48	start	nearby cities	144
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-12:07:08:48	end	nearby cities	33
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-05-12:17:04:56	start	nearby cities	145
+#FF0000	48.2	1	end	end: le plessis robinson (92060), hauts-de-seine (92), Île-de-France	2009-05-12:17:04:56	end	nearby cities	34
+#FF0000	48.3	1	start	start: malakoff (92046), hauts-de-seine (92), Île-de-France	2009-05-12:17:53:45	start	nearby cities	146
+#FF0000	48.2	1	end	end: paris (75113), paris (75), Île-de-France	2009-05-12:17:53:45	end	nearby cities	35
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-05-13:06:56:19	start	nearby cities	147
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-13:06:56:19	end	nearby cities	36
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-13:16:31:56	start	nearby cities	148
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-13:16:31:56	end	nearby cities	37
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-05-14:08:25:13	start	nearby cities	149
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-14:08:25:13	end	nearby cities	38
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-14:16:54:51	start	nearby cities	150
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-14:16:54:51	end	nearby cities	39
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-18:07:12:45	start	nearby cities	151
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-18:07:12:45	end	nearby cities	40
+#FF0000	48.3	1	start	start: paris (75114), paris (75), Île-de-France	2009-05-19:07:16:30	start	nearby cities	152
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-19:07:16:30	end	nearby cities	41
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-19:17:16:32	start	nearby cities	153
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-19:17:16:32	end	nearby cities	42
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-20:08:14:40	start	nearby cities	154
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-20:08:14:40	end	nearby cities	43
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-20:16:12:12	start	nearby cities	155
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-20:16:12:12	end	nearby cities	44
+#FF0000	48.3	1	start	start: maisons laffitte (78358), yvelines (78), Île-de-France	2009-05-21:10:39:03	start	nearby cities	156
+#FF0000	48.2	1	end	end: sartrouville (78586), yvelines (78), Île-de-France	2009-05-21:10:39:03	end	nearby cities	45
+#FF0000	48.3	1	start	start: sartrouville (78586), yvelines (78), Île-de-France	2009-05-21:15:09:59	start	nearby cities	157
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-21:15:09:59	end	nearby cities	46
+#FF0000	48.3	1	start	start: paris (75114), paris (75), Île-de-France	2009-05-22:09:04:06	start	nearby cities	158
+#FF0000	48.2	1	end	end: paris (75111), paris (75), Île-de-France	2009-05-22:09:04:06	end	nearby cities	47
+#FF0000	48.3	1	start	start: paris (75104), paris (75), Île-de-France	2009-05-22:11:50:59	start	nearby cities	159
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-22:11:50:59	end	nearby cities	48
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-25:16:22:05	start	nearby cities	160
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-25:16:22:05	end	nearby cities	49
+#FF0000	48.3	1	start	start: paris (75105), paris (75), Île-de-France	2009-05-25:18:21:16	start	nearby cities	161
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-25:18:21:16	end	nearby cities	50
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-26:17:46:35	start	nearby cities	162
+#FF0000	48.2	1	end	end: paris (75111), paris (75), Île-de-France	2009-05-26:17:46:35	end	nearby cities	51
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-27:06:59:24	start	nearby cities	163
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-27:06:59:24	end	nearby cities	52
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-27:16:39:11	start	nearby cities	164
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-27:16:39:11	end	nearby cities	53
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-28:08:25:08	start	nearby cities	165
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-05-28:08:25:08	end	nearby cities	54
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-05-28:18:53:51	start	nearby cities	166
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-28:18:53:51	end	nearby cities	55
+#FF0000	48.3	1	start	start: paris (75113), paris (75), Île-de-France	2009-05-30:07:22:36	start	nearby cities	167
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-30:07:22:36	end	nearby cities	56
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-05-30:08:29:31	start	nearby cities	168
+#FF0000	48.2	1	end	end: perigny sur yerres (94056), val-de-marne (94), Île-de-France	2009-05-30:08:29:31	end	nearby cities	57
+#FF0000	48.3	1	start	start: mandres les roses (94047), val-de-marne (94), Île-de-France	2009-05-30:14:48:13	start	nearby cities	169
+#FF0000	48.2	1	end	end: paris (75119), paris (75), Île-de-France	2009-05-30:14:48:13	end	nearby cities	58
+#FF0000	48.3	1	start	start: paris (75119), paris (75), Île-de-France	2009-05-30:17:58:35	start	nearby cities	170
+#FF0000	48.2	1	end	end: nanterre (92050), hauts-de-seine (92), Île-de-France	2009-05-30:17:58:35	end	nearby cities	59
+#FF0000	48.3	1	start	start: nanterre (92050), hauts-de-seine (92), Île-de-France	2009-05-30:21:33:48	start	nearby cities	171
+#FF0000	48.2	1	end	end: ecouen (95205), val-d'oise (95), Île-de-France	2009-05-30:21:33:48	end	nearby cities	60
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-06-02:17:17:15	start	nearby cities	172
+#FF0000	48.2	1	end	end: paris (75104), paris (75), Île-de-France	2009-06-02:17:17:15	end	nearby cities	61
+#FF0000	48.3	1	start	start: bievres (91064), essonne (91), Île-de-France	2009-06-03:20:05:43	start	nearby cities	173
+#FF0000	48.2	1	end	end: paris (75111), paris (75), Île-de-France	2009-06-03:20:05:43	end	nearby cities	62
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-06-05:07:34:48	start	nearby cities	174
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-06-05:07:34:48	end	nearby cities	63
+#FF0000	48.3	1	start	start: paris (75114), paris (75), Île-de-France	2009-06-07:10:23:12	start	nearby cities	175
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-06-07:10:23:12	end	nearby cities	64
+#FF0000	48.3	1	start	start: paris (75103), paris (75), Île-de-France	2009-06-14:04:41:58	start	nearby cities	176
+#FF0000	48.2	1	end	end: meaux (77284), seine-et-marne (77), Île-de-France	2009-06-14:04:41:58	end	nearby cities	65
+#FF0000	48.3	1	start	start: meaux (77284), seine-et-marne (77), Île-de-France	2009-06-14:08:18:32	start	nearby cities	177
+#FF0000	48.2	1	end	end: la ferte milon (02307), aisne (02), Hauts-de-France	2009-06-14:08:18:32	end	nearby cities	66
+#FF0000	48.3	1	start	start: la ferte milon (02307), aisne (02), Hauts-de-France	2009-06-14:11:41:19	start	nearby cities	178
+#FF0000	48.2	1	end	end: mareuil sur ourcq (60380), oise (60), Hauts-de-France	2009-06-14:11:41:19	end	nearby cities	67
+#FF0000	48.3	1	start	start: may en multien (77283), seine-et-marne (77), Île-de-France	2009-06-14:16:15:28	start	nearby cities	179
+#FF0000	48.2	1	end	end: meaux (77284), seine-et-marne (77), Île-de-France	2009-06-14:16:15:28	end	nearby cities	68
+#FF0000	48.3	1	start	start: pantin (93055), seine-saint-denis (93), Île-de-France	2009-06-18:14:21:13	start	nearby cities	180
+#FF0000	48.2	1	end	end: epiais les louvres (95212), val-d'oise (95), Île-de-France	2009-06-18:14:21:13	end	nearby cities	69
+#FF0000	48.3	1	start	start: montrouge (92049), hauts-de-seine (92), Île-de-France	2009-06-22:08:55:44	start	nearby cities	181
+#FF0000	48.2	1	end	end: orsay (91471), essonne (91), Île-de-France	2009-06-22:08:55:44	end	nearby cities	70
+#FF0000	48.3	1	start	start: orsay (91471), essonne (91), Île-de-France	2009-06-22:10:24:12	start	nearby cities	182
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-06-22:10:24:12	end	nearby cities	71
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-06-23:16:32:10	start	nearby cities	183
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-06-23:16:32:10	end	nearby cities	72
+#FF0000	48.3	1	start	start: gentilly (94037), val-de-marne (94), Île-de-France	2009-06-23:20:12:13	start	nearby cities	184
+#FF0000	48.2	1	end	end: versailles (78646), yvelines (78), Île-de-France	2009-06-23:20:12:13	end	nearby cities	73
+#FF0000	48.3	1	start	start: versailles (78646), yvelines (78), Île-de-France	2009-06-23:22:03:48	start	nearby cities	185
+#FF0000	48.2	1	end	end: gentilly (94037), val-de-marne (94), Île-de-France	2009-06-23:22:03:48	end	nearby cities	74
+#FF0000	48.3	1	start	start: paris (75105), paris (75), Île-de-France	2009-06-24:11:03:54	start	nearby cities	186
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-06-24:11:03:54	end	nearby cities	75
+#FF0000	48.3	1	start	start: paris (75110), paris (75), Île-de-France	2009-06-27:07:55:49	start	nearby cities	187
+#FF0000	48.2	1	end	end: st witz (95580), val-d'oise (95), Île-de-France	2009-06-27:07:55:49	end	nearby cities	76
+#FF0000	48.3	1	start	start: st witz (95580), val-d'oise (95), Île-de-France	2009-06-27:17:24:36	start	nearby cities	188
+#FF0000	48.2	1	end	end: paris (75109), paris (75), Île-de-France	2009-06-27:17:24:36	end	nearby cities	77
+#FF0000	48.3	1	start	start: velizy villacoublay (78640), yvelines (78), Île-de-France	2009-07-04:10:46:25	start	nearby cities	189
+#FF0000	48.2	1	end	end: septeuil (78591), yvelines (78), Île-de-France	2009-07-04:10:46:25	end	nearby cities	78
+#FF0000	48.3	1	start	start: septeuil (78591), yvelines (78), Île-de-France	2009-07-04:14:24:26	start	nearby cities	190
+#FF0000	48.2	1	end	end: brezolles (28059), eure-et-loir (28), Centre-Val de Loire	2009-07-04:14:24:26	end	nearby cities	79
+#FF0000	48.3	1	start	start: brezolles (28059), eure-et-loir (28), Centre-Val de Loire	2009-07-04:19:12:01	start	nearby cities	191
+#FF0000	48.2	1	end	end: les ressuintes (28314), eure-et-loir (28), Centre-Val de Loire	2009-07-04:19:12:01	end	nearby cities	80
+#FF0000	48.3	1	start	start: malakoff (92046), hauts-de-seine (92), Île-de-France	2009-07-30:12:11:53	start	nearby cities	192
+#FF0000	48.2	1	end	end: ivry sur seine (94041), val-de-marne (94), Île-de-France	2009-07-30:12:11:53	end	nearby cities	81
+#FF0000	48.3	1	start	start: neuilly plaisance (93049), seine-saint-denis (93), Île-de-France	2009-08-09:10:28:17	start	nearby cities	193
+#FF0000	48.2	1	end	end: paris (75104), paris (75), Île-de-France	2009-08-09:10:28:17	end	nearby cities	82
+#FF0000	48.3	1	start	start: paris (75101), paris (75), Île-de-France	2009-08-10:07:34:42	start	nearby cities	194
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-08-10:07:34:42	end	nearby cities	83
+#FF0000	48.3	1	start	start: paris (75101), paris (75), Île-de-France	2009-08-11:07:48:30	start	nearby cities	195
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-08-11:07:48:30	end	nearby cities	84
+#FF0000	48.3	1	start	start: asnieres sur seine (92004), hauts-de-seine (92), Île-de-France	2009-08-16:06:47:55	start	nearby cities	196
+#FF0000	48.2	1	end	end: chantilly (60141), oise (60), Hauts-de-France	2009-08-16:06:47:55	end	nearby cities	85
+#FF0000	48.3	1	start	start: chantilly (60141), oise (60), Hauts-de-France	2009-08-16:11:26:17	start	nearby cities	197
+#FF0000	48.2	1	end	end: paris (75104), paris (75), Île-de-France	2009-08-16:11:26:17	end	nearby cities	86
+#FF0000	48.3	1	start	start: igny (91312), essonne (91), Île-de-France	2009-08-19:17:19:57	start	nearby cities	198
+#FF0000	48.2	1	end	end: paris (75101), paris (75), Île-de-France	2009-08-19:17:19:57	end	nearby cities	87
+#FF0000	48.3	1	start	start: ivry sur seine (94041), val-de-marne (94), Île-de-France	2009-08-23:06:44:18	start	nearby cities	199
+#FF0000	48.2	1	end	end: neufmoutiers en brie (77336), seine-et-marne (77), Île-de-France	2009-08-23:06:44:18	end	nearby cities	88
+#FF0000	48.3	1	start	start: neufmoutiers en brie (77336), seine-et-marne (77), Île-de-France	2009-08-23:09:38:53	start	nearby cities	200
+#FF0000	48.2	1	end	end: paris (75110), paris (75), Île-de-France	2009-08-23:09:38:53	end	nearby cities	89
+#FF0000	48.3	1	start	start: jouy en josas (78322), yvelines (78), Île-de-France	2009-08-27:17:58:03	start	nearby cities	201
+#FF0000	48.2	1	end	end: choisy le roi (94022), val-de-marne (94), Île-de-France	2009-08-27:17:58:03	end	nearby cities	90
+#FF0000	48.3	1	start	start: choisy le roi (94022), val-de-marne (94), Île-de-France	2009-08-27:21:22:01	start	nearby cities	202
+#FF0000	48.2	1	end	end: paris (75104), paris (75), Île-de-France	2009-08-27:21:22:01	end	nearby cities	91
+#FF0000	48.3	1	start	start: paris (75104), paris (75), Île-de-France	2009-08-28:06:50:51	start	nearby cities	203
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-08-28:06:50:51	end	nearby cities	92
+#FF0000	48.3	1	start	start: paris (75111), paris (75), Île-de-France	2009-08-29:13:08:43	start	nearby cities	204
+#FF0000	48.2	1	end	end: paris (75104), paris (75), Île-de-France	2009-08-29:13:08:43	end	nearby cities	93
+#FF0000	48.3	1	start	start: paris (75118), paris (75), Île-de-France	2009-08-30:04:29:06	start	nearby cities	205
+#FF0000	48.2	1	end	end: pontoise (95500), val-d'oise (95), Île-de-France	2009-08-30:04:29:06	end	nearby cities	94
+#FF0000	48.3	1	start	start: st gervais (95554), val-d'oise (95), Île-de-France	2009-08-30:07:22:48	start	nearby cities	206
+#FF0000	48.2	1	end	end: rouen (76540), seine-maritime (76), Normandie	2009-08-30:07:22:48	end	nearby cities	95
+#FF0000	48.3	1	start	start: rouen (76540), seine-maritime (76), Normandie	2009-08-30:11:55:25	start	nearby cities	207
+#FF0000	48.2	1	end	end: port mort (27473), eure (27), Normandie	2009-08-30:11:55:25	end	nearby cities	96
+#FF0000	48.3	1	start	start: port mort (27473), eure (27), Normandie	2009-08-30:14:56:52	start	nearby cities	208
+#FF0000	48.2	1	end	end: giverny (27285), eure (27), Normandie	2009-08-30:14:56:52	end	nearby cities	97
+#FF0000	48.3	1	start	start: giverny (27285), eure (27), Normandie	2009-08-30:16:33:46	start	nearby cities	209
+#FF0000	48.2	1	end	end: st cyr en arthies (95543), val-d'oise (95), Île-de-France	2009-08-30:16:33:46	end	nearby cities	98
+#FF0000	48.3	1	start	start: paris (75115), paris (75), Île-de-France	2009-09-07:10:08:30	start	nearby cities	210
+#FF0000	48.2	1	end	end: jouy en josas (78322), yvelines (78), Île-de-France	2009-09-07:10:08:30	end	nearby cities	99
+#FF0000	48.3	1	start	start: le bourget (93013), seine-saint-denis (93), Île-de-France	2009-09-27:06:11:39	start	nearby cities	211
+#FF0000	48.2	1	end	end: senlis (60612), oise (60), Hauts-de-France	2009-09-27:06:11:39	end	nearby cities	100
+#FF0000	48.3	1	start	start: senlis (60612), oise (60), Hauts-de-France	2009-09-27:08:19:41	start	nearby cities	212
+#FF0000	48.2	1	end	end: paris (75118), paris (75), Île-de-France	2009-09-27:08:19:41	end	nearby cities	101
+#FF0000	48.3	1	start	start: paris (75118), paris (75), Île-de-France	2009-09-27:11:04:22	start	nearby cities	213
+#FF0000	48.2	1	end	end: paris (75113), paris (75), Île-de-France	2009-09-27:11:04:22	end	nearby cities	102
+#FF0000	48.3	1	start	start: paris (75113), paris (75), Île-de-France	2009-09-27:12:53:49	start	nearby cities	214
+#FF0000	48.2	1	end	end: buc (78117), yvelines (78), Île-de-France	2009-09-27:12:53:49	end	nearby cities	103
+#FF0000	48.3	1	start	start: buc (78117), yvelines (78), Île-de-France	2009-09-27:14:19:10	start	nearby cities	215
+#FF0000	48.2	1	end	end: buc (78117), yvelines (78), Île-de-France	2009-09-27:14:19:10	end	nearby cities	104
+#FF0000	48.3	1	start	start: paris (75110), paris (75), Île-de-France	2009-10-04:11:35:58	start	nearby cities	216
+#FF0000	48.2	1	end	end: villeparisis (77514), seine-et-marne (77), Île-de-France	2009-10-04:11:35:58	end	nearby cities	105
+#FF0000	48.3	1	start	start: villeparisis (77514), seine-et-marne (77), Île-de-France	2009-10-04:13:10:21	start	nearby cities	217
+#FF0000	48.2	1	end	end: paris (75113), paris (75), Île-de-France	2009-10-04:13:10:21	end	nearby cities	106
+#FF0000	48.3	1	start	start: vincennes (94080), val-de-marne (94), Île-de-France	2009-10-07:18:41:11	start	nearby cities	218
+#FF0000	48.2	1	end	end: paris (75113), paris (75), Île-de-France	2009-10-07:18:41:11	end	nearby cities	107
+#FF0000	48.3	1	start	start: charenton le pont (94018), val-de-marne (94), Île-de-France	2009-10-11:08:51:39	start	nearby cities	219
+#FF0000	48.2	1	end	end: seine port (77447), seine-et-marne (77), Île-de-France	2009-10-11:08:51:39	end	nearby cities	108
+#FF0000	48.3	1	start	start: seine port (77447), seine-et-marne (77), Île-de-France	2009-10-11:12:10:11	start	nearby cities	220
+#FF0000	48.2	1	end	end: maincy (77269), seine-et-marne (77), Île-de-France	2009-10-11:12:10:11	end	nearby cities	109
+#FF0000	48.3	1	start	start: joinville le pont (94042), val-de-marne (94), Île-de-France	2009-10-25:07:22:37	start	nearby cities	221
+#FF0000	48.2	1	end	end: meaux (77284), seine-et-marne (77), Île-de-France	2009-10-25:07:22:37	end	nearby cities	110
+#FF0000	48.3	1	start	start: meaux (77284), seine-et-marne (77), Île-de-France	2009-10-25:10:25:19	start	nearby cities	222
+#FF0000	48.2	1	end	end: paris (75103), paris (75), Île-de-France	2009-10-25:10:25:19	end	nearby cities	111
